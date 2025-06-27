@@ -2,7 +2,7 @@
 
 This project analyzes a Spotify dataset from 2023 to understand and predict song popularity based on various features such as audio characteristics, chart performance, and playlist inclusions. The goal is to explore which features contribute most to a song's success and to implement predictive models to estimate stream counts and classify potential hits.
 
-**Authors : Isabella Garcia & Jumin Shrestha **
+**Authors : Isabella Garcia & Jumin Shrestha**
 
 ## Project Overview
 
